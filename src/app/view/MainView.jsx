@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../../assets/css/main.css';
 
 class MainView extends Component {
   constructor(props) {
